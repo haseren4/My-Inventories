@@ -1,0 +1,8 @@
+<inventory>
+	<container>
+	Description, Serial, Notes, Key Number
+		<item>
+		Description, Serial, NSN, Notes, QTY
+		</item>
+	</container>
+</inventory>
